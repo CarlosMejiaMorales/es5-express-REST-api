@@ -1,0 +1,24 @@
+{
+  "name": "scotchrestapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "setFront": "node utility.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "carlos mm",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.12.4",
+    "morgan": "^1.9.0",
+    "winston": "^2.4.0"
+  },
+  "devDependencies": {
+    "fs-extra": "^4.0.2",
+    "node-cron": "^1.2.1"
+  }
+}

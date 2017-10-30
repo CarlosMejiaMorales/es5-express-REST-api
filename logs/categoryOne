@@ -1,0 +1,778 @@
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T20:49:30.993Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T20:49:50.589Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T20:51:14.535Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T20:51:22.392Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T20:51:29.537Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T20:52:45.375Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T20:52:52.097Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T20:52:56.091Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T20:53:30.969Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T20:53:57.197Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T20:54:16.616Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T20:54:33.961Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T20:55:37.621Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T23:38:31.190Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T23:48:19.140Z"}
+{"level":"info","message":"Connection stablished sucessfully","timestamp":"2017-10-28T23:48:19.161Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T23:49:40.956Z"}
+{"level":"info","message":"Error while connecting to database: MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]","timestamp":"2017-10-28T23:49:40.968Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T23:50:21.518Z"}
+{"level":"info","message":"Error while connecting to database: MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]","timestamp":"2017-10-28T23:50:21.529Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T23:50:57.681Z"}
+{"level":"info","message":"Connection stablished sucessfully","timestamp":"2017-10-28T23:50:57.703Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T23:51:16.662Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-28T23:51:16.684Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T23:51:25.110Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-28T23:51:25.135Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T23:51:35.854Z"}
+{"level":"info","message":"Error while connecting to database: MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]","timestamp":"2017-10-28T23:51:35.866Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T23:51:53.923Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-28T23:51:53.945Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T23:54:03.856Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-28T23:54:03.881Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T23:54:44.669Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-28T23:54:44.692Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T23:56:20.617Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-28T23:56:20.642Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T23:56:26.852Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-28T23:56:26.876Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T23:57:50.565Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-28T23:57:50.594Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T23:59:08.379Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-28T23:59:08.403Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-28T23:59:26.922Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-28T23:59:26.946Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T00:00:02.541Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T00:00:02.564Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T00:00:43.118Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T00:00:43.141Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T00:01:20.611Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T00:01:20.638Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T00:01:54.064Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T00:01:54.087Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T00:03:46.765Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T00:03:46.789Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T00:06:29.373Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T00:06:29.402Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T00:09:39.745Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T00:09:39.769Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T00:13:21.616Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T00:13:21.642Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T00:13:35.151Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T00:13:35.177Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T00:14:37.685Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T00:14:37.711Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T00:19:32.405Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T00:19:32.431Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T00:20:01.716Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T00:20:01.749Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T00:21:18.422Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T00:21:18.449Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T00:21:55.669Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T00:21:55.694Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T00:22:46.352Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T00:22:46.379Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T01:43:20.880Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T01:43:20.903Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T02:40:33.829Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T02:40:33.880Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T02:41:05.489Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T02:41:05.523Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T02:52:08.759Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T02:52:08.788Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T02:54:43.397Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T02:54:43.422Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T02:55:27.598Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T02:55:27.624Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T03:00:49.729Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T03:00:49.755Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T03:05:53.364Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T03:05:53.393Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T03:17:45.522Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T03:17:45.545Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T03:18:11.882Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T03:18:11.906Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T03:19:28.846Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T03:19:28.872Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T03:20:05.752Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T03:20:05.778Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T03:20:31.482Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T03:20:31.509Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T03:20:47.553Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T03:20:47.579Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T03:22:01.843Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T03:22:01.870Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T03:22:43.381Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T03:22:43.408Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T03:23:24.818Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T03:23:24.847Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T03:24:08.815Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T03:24:08.845Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T03:26:13.017Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T03:26:13.047Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T03:26:47.741Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T03:26:47.766Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T03:34:30.327Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T03:34:30.355Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T03:34:40.980Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T03:34:41.005Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T03:35:10.709Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T03:35:10.735Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T03:35:16.116Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T03:35:16.144Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T03:58:46.647Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T03:58:46.674Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T03:58:57.985Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T03:58:58.012Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T04:00:52.833Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T04:00:52.860Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-29T04:01:54.701Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-29T04:01:54.725Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:31:05.898Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:31:05.928Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:31:16.093Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:31:16.119Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:32:01.141Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:32:01.174Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:33:59.222Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:33:59.248Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:34:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:34:00.640Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:34:01.416Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:34:01.446Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:34:21.515Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:34:21.553Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:34:26.380Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:34:26.405Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:34:29.330Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:34:29.355Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:35:17.679Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:35:17.705Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:35:26.766Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:35:26.800Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:36:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:36:00.771Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:36:01.455Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:36:01.480Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:36:20.827Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:36:20.853Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:36:51.831Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:36:51.858Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:36:54.435Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:36:54.459Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:37:39.993Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:37:40.022Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:38:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:38:00.888Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:38:01.513Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:38:01.539Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:38:45.162Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:38:45.189Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:39:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:39:00.342Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:39:01.022Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:39:01.047Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:39:27.017Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:39:27.042Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:39:42.071Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:39:42.097Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:39:49.948Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:39:49.977Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:40:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:40:00.403Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:40:01.052Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:40:01.076Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:41:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:41:00.441Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:41:01.116Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:41:01.151Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:41:37.146Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:41:37.173Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:41:43.429Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:41:43.455Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:42:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:42:00.527Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:42:01.259Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:42:01.288Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:42:45.357Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:42:45.383Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:43:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:43:00.594Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:43:01.356Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:43:01.382Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:44:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:44:00.657Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:44:01.257Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:44:01.282Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:44:46.048Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:44:46.077Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:45:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:45:00.725Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:45:01.455Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:45:01.480Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:45:32.896Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:45:32.922Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:45:54.426Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:45:54.456Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:46:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:46:00.808Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:46:01.620Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:46:01.645Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:47:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:47:00.860Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:47:01.583Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:47:01.609Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:47:08.025Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:47:08.057Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:47:34.939Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:47:34.967Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:48:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:48:00.940Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:48:01.637Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:48:01.664Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:48:06.435Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:48:06.460Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:48:44.841Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:48:44.868Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:48:52.702Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:48:52.728Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:49:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:49:00.994Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:49:01.602Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:49:01.627Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:50:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:50:00.088Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:50:01.563Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:50:01.596Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:51:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:51:00.116Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:51:01.153Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:51:01.182Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:52:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:52:00.187Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:52:00.846Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:52:00.873Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:53:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:53:00.250Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:53:01.003Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:53:01.041Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:54:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:54:00.351Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:54:01.095Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:54:01.121Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:55:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:55:00.394Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:55:01.313Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:55:01.349Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:56:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:56:00.443Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:56:01.055Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:56:01.080Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:57:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:57:00.516Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:57:01.492Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:57:01.530Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:58:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:58:00.573Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:58:01.260Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:58:01.288Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 20:59:00 GMT-0600 (CST)","timestamp":"2017-10-30T02:59:00.641Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T02:59:01.380Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T02:59:01.411Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:00:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:00:00.709Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:00:01.405Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:00:01.429Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:01:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:01:00.769Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:01:01.369Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:01:01.395Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:02:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:02:00.837Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:02:01.441Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:02:01.465Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:03:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:03:00.908Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:03:01.519Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:03:01.546Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:04:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:04:00.976Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:04:01.652Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:04:01.674Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:05:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:05:01.003Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:05:04.372Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:05:04.412Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:06:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:06:00.736Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:06:01.925Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:06:01.950Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:07:03 GMT-0600 (CST)","timestamp":"2017-10-30T03:07:03.494Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:07:06.867Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:07:07.231Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:08:01 GMT-0600 (CST)","timestamp":"2017-10-30T03:08:01.028Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:08:02.617Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:08:02.643Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:09:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:09:00.922Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:09:01.575Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:09:01.600Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:10:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:10:00.992Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:10:01.595Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:10:01.621Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:11:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:11:00.086Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:11:00.827Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:11:00.852Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:12:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:12:00.125Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:12:00.780Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:12:00.806Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:13:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:13:00.853Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:13:07.084Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:13:07.119Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:14:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:14:00.915Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:14:01.638Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:14:01.666Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:15:01 GMT-0600 (CST)","timestamp":"2017-10-30T03:15:01.070Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:15:02.746Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:15:02.770Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:16:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:16:00.036Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:16:00.899Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:16:00.931Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:17:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:17:00.330Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:17:01.149Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:17:01.180Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:18:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:18:00.356Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:19:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:19:00.485Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:20:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:20:00.400Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:21:01 GMT-0600 (CST)","timestamp":"2017-10-30T03:21:01.482Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:22:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:22:00.787Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:23:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:23:00.764Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:24:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:24:00.790Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:25:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:25:00.860Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:26:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:26:00.925Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:27:01 GMT-0600 (CST)","timestamp":"2017-10-30T03:27:01.172Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:28:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:28:00.090Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:29:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:29:00.159Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:30:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:30:00.711Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:31:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:31:00.633Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:32:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:32:00.699Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:33:01 GMT-0600 (CST)","timestamp":"2017-10-30T03:33:01.014Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:34:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:34:00.877Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:35:01 GMT-0600 (CST)","timestamp":"2017-10-30T03:35:01.010Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:36:09 GMT-0600 (CST)","timestamp":"2017-10-30T03:36:09.293Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:38:12 GMT-0600 (CST)","timestamp":"2017-10-30T03:38:12.254Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:40:04 GMT-0600 (CST)","timestamp":"2017-10-30T03:40:04.474Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:41:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:41:00.397Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:42:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:42:00.433Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:43:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:43:00.503Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:44:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:44:00.564Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:45:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:45:00.641Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:45:19.202Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:45:19.391Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:45:58.104Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:45:58.131Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:46:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:46:00.780Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:46:01.715Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:46:01.750Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:47:01 GMT-0600 (CST)","timestamp":"2017-10-30T03:47:01.268Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:47:01.879Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:47:01.905Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:54:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:54:00.943Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:55:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:55:00.817Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:55:47.422Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:55:47.449Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:56:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:56:00.896Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:56:01.621Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:56:01.649Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:57:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:57:00.969Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:57:01.576Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:57:01.603Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:58:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:58:00.060Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:58:01.597Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:58:01.637Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 21:59:00 GMT-0600 (CST)","timestamp":"2017-10-30T03:59:00.862Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T03:59:02.344Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T03:59:02.609Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:00:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:00:00.463Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:00:01.609Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:00:01.635Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:00:56.727Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:00:56.753Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:01:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:01:00.489Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:01:01.169Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:01:01.193Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:01:42.529Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:01:42.555Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:02:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:02:00.560Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:02:01.318Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:02:01.346Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:03:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:03:00.624Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:03:01.239Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:03:01.264Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:03:54.247Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:03:54.279Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:04:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:04:00.736Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:04:01.494Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:04:01.520Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:05:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:05:00.786Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:05:01.561Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:05:01.589Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:05:16.083Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:05:16.111Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:05:22.335Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:05:22.362Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:06:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:06:00.838Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:06:01.626Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:06:01.652Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:07:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:07:00.903Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:07:01.645Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:07:01.675Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:08:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:08:00.964Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:08:01.731Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:08:01.757Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:09:01 GMT-0600 (CST)","timestamp":"2017-10-30T04:09:01.030Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:09:01.887Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:09:01.919Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:10:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:10:00.076Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:10:00.843Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:10:00.874Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:11:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:11:00.240Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:11:02.399Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:11:02.442Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:12:02 GMT-0600 (CST)","timestamp":"2017-10-30T04:12:02.798Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:12:03.648Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:12:03.780Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:14:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:14:00.561Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:14:01.527Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:14:01.562Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:15:01 GMT-0600 (CST)","timestamp":"2017-10-30T04:15:01.044Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:15:01.755Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:15:01.780Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:16:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:16:00.592Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:16:01.499Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:16:01.538Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:16:51.695Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:16:51.724Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:16:54.992Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:16:55.022Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:17:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:17:00.482Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:17:01.265Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:17:01.293Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:17:09.418Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:17:09.449Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:17:17.905Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:17:17.932Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:18:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:18:00.599Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:18:01.495Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:18:01.528Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:19:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:19:00.619Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:19:01.455Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:19:01.483Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:19:26.877Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:19:26.905Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:20:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:20:00.702Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:20:01.565Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:20:01.597Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:21:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:21:00.779Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:21:01.799Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:21:01.825Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:21:13.572Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:21:13.608Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:22:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:22:00.920Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:22:01.568Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:22:01.593Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:22:33.030Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:22:33.064Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:23:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:23:00.930Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:23:02.029Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:23:02.056Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:23:54.399Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:23:54.427Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:24:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:24:00.960Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:24:01.622Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:24:01.814Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:25:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:25:00.020Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:25:00.770Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:25:00.795Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:26:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:26:00.086Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:26:00.938Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:26:00.977Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:26:32.537Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:26:32.566Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:27:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:27:00.151Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:27:00.964Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:27:00.992Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:28:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:28:00.233Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:28:01.543Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:28:01.595Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:28:32.435Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:28:32.477Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:29:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:29:00.258Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:29:01.394Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:29:01.428Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:29:45.465Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:29:45.492Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:30:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:30:00.336Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:30:01.263Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:30:01.288Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:31:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:31:00.408Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:31:01.049Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:31:01.074Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:32:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:32:00.463Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:32:01.192Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:32:01.223Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:33:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:33:00.524Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:33:01.372Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:33:01.404Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:34:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:34:00.587Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:34:01.213Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:34:01.238Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:35:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:35:00.656Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:35:01.297Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:35:01.323Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:36:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:36:00.733Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:36:01.409Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:36:01.435Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:37:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:37:00.780Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:37:01.647Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:37:01.678Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:38:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:38:00.987Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:38:01.701Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:38:01.725Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:38:37.891Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:38:37.934Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:39:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:39:00.922Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:39:01.686Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:39:01.720Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:40:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:40:00.977Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:40:01.740Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:40:01.776Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:40:24.646Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:40:24.686Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:40:47.447Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:40:47.475Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:41:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:41:00.041Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:41:00.873Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:41:00.898Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:41:57.738Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:41:57.762Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:42:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:42:00.104Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:42:00.716Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:42:00.740Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:42:15.575Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:42:15.601Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:43:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:43:00.172Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:43:01.135Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:43:01.168Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:44:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:44:00.237Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:44:01.370Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:44:01.403Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:45:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:45:00.326Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:45:02.170Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:45:02.218Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:46:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:46:00.370Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:46:01.376Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:46:01.405Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:46:03.351Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:46:03.383Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:47:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:47:00.426Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:47:01.129Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:47:01.155Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:47:23.864Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:47:23.894Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:48:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:48:00.489Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:48:01.134Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:48:01.161Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:48:36.255Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:48:36.282Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:49:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:49:00.567Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:49:01.359Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:49:01.386Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:50:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:50:00.623Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:50:01.236Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:50:01.279Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:51:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:51:00.688Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:51:01.438Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:51:01.465Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:51:18.523Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:51:18.551Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:52:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:52:00.757Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:52:01.419Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:52:01.445Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:53:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:53:00.835Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:53:01.505Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:53:01.531Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:53:40.206Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:53:40.234Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:54:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:54:00.911Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:54:01.655Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:54:01.687Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:54:45.023Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:54:45.051Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:55:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:55:00.956Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:55:01.603Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:55:01.627Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:56:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:56:00.022Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:56:00.747Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:56:00.774Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:56:47.728Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:56:47.762Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:57:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:57:00.090Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:57:00.849Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:57:00.876Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:58:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:58:00.154Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:58:00.939Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:58:00.964Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 22:59:00 GMT-0600 (CST)","timestamp":"2017-10-30T04:59:00.218Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:59:00.827Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:59:00.853Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T04:59:48.108Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T04:59:48.151Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:00:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:00:00.313Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:00:01.141Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:00:01.177Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:01:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:01:00.348Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:01:01.043Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:01:01.078Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:01:20.866Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:01:20.894Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:01:36.657Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:01:36.689Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:02:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:02:00.421Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:02:01.107Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:02:01.132Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:03:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:03:00.485Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:03:01.779Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:03:01.809Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:04:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:04:00.551Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:04:01.157Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:04:01.183Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:04:06.996Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:04:07.023Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:04:23.757Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:04:23.787Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:05:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:05:00.626Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:05:01.297Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:05:01.321Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:06:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:06:00.686Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:06:01.369Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:06:01.394Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:06:28.514Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:06:28.539Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:07:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:07:00.775Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:07:01.566Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:07:01.590Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:08:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:08:00.821Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:08:01.559Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:08:01.593Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:09:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:09:00.896Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:09:01.624Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:09:01.650Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:10:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:10:00.953Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:10:01.657Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:10:01.688Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:11:01 GMT-0600 (CST)","timestamp":"2017-10-30T05:11:01.013Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:11:01.734Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:11:01.770Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:12:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:12:00.075Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:12:00.739Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:12:00.781Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:13:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:13:00.145Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:13:00.796Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:13:00.825Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:14:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:14:00.233Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:14:00.921Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:14:00.953Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:15:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:15:00.272Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:15:01.275Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:15:01.305Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:16:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:16:00.336Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:16:01.390Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:16:01.421Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:17:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:17:00.410Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:17:01.508Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:17:01.542Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:17:14.871Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:17:14.898Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:18:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:18:00.470Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:18:01.244Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:18:01.273Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:18:53.135Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:18:53.162Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:19:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:19:00.544Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:19:01.226Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:19:01.252Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:20:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:20:00.602Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:20:01.217Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:20:01.243Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:21:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:21:00.666Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:21:01.576Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:21:01.602Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:22:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:22:00.738Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:22:01.437Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:22:01.463Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:22:29.098Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:22:29.133Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:23:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:23:00.793Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:23:01.434Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:23:01.459Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:24:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:24:00.860Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:24:01.508Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:24:01.532Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:25:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:25:00.925Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:25:01.546Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:25:01.585Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:25:12.785Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:25:12.813Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:25:23.482Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:25:23.514Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:26:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:26:00.980Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:26:01.604Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:26:01.629Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:27:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:27:00.068Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:27:00.885Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:27:00.910Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:28:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:28:00.132Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:28:00.795Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:28:00.822Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:29:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:29:00.186Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:29:00.883Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:29:00.907Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:30:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:30:00.251Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:30:00.878Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:30:00.903Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:30:55.307Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:30:55.332Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:31:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:31:00.319Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:31:00.930Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:31:00.957Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:32:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:32:00.380Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:32:01.001Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:32:01.029Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:32:14.426Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:32:14.452Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:33:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:33:00.462Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:33:01.471Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:33:01.496Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:34:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:34:00.518Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:34:01.241Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:34:01.278Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:34:37.482Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:34:37.510Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:35:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:35:00.586Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:35:01.294Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:35:01.322Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:36:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:36:00.656Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:36:01.357Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:36:01.406Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:37:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:37:00.723Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:37:01.445Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:37:01.471Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:38:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:38:00.788Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:38:01.445Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:38:01.470Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:38:16.216Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:38:16.244Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:39:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:39:00.870Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:39:01.622Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:39:01.649Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:40:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:40:00.920Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:40:01.523Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:40:01.550Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:40:23.417Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:40:23.445Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:41:01 GMT-0600 (CST)","timestamp":"2017-10-30T05:41:01.005Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:41:01.718Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:41:01.745Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:42:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:42:00.042Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:42:00.914Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:42:00.959Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:42:54.950Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:42:54.977Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:43:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:43:00.119Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:43:00.898Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:43:00.923Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:43:15.999Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:43:16.024Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:44:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:44:00.180Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:44:00.780Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:44:00.805Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:44:32.048Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:44:32.076Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:44:47.024Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:44:47.049Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:45:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:45:00.249Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:45:00.923Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:45:00.950Z"}
+{"level":"info","message":"dist folder has been refreshed at Sun Oct 29 2017 23:46:00 GMT-0600 (CST)","timestamp":"2017-10-30T05:46:00.324Z"}
+{"level":"info","message":"server satarted at: 9000","timestamp":"2017-10-30T05:46:01.079Z"}
+{"level":"info","message":"Mongo connection stablished sucessfully","timestamp":"2017-10-30T05:46:01.105Z"}
